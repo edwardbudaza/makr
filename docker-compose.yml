@@ -1,0 +1,18 @@
+version: '3.9'
+
+services:
+  mysql:
+    image: mysql:8.0
+    container_name: makr-mysql
+    restart: always
+    ports:
+      - '3306:3306'
+    environment:
+      MYSQL_ROOT_PASSWORD: ${DB_PASSWORD}
+      MYSQL_DATABASE: 'makr_db'
+    volumes:
+      - makr-mysql-data:/var/lib/mysql
+
+volumes:
+  makr-mysql-data:
+    driver: local
