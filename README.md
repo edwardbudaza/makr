@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Makr - SaaS Website & Funnel Builder 🚀
 
 Makr is a full-stack **SaaS application** meticulously crafted to empower agencies and entrepreneurs in building stunning, high-converting websites and sales funnels. This comprehensive platform provides all the tools needed to **launch and manage online businesses**, simplifying the process from idea to execution.
@@ -61,41 +60,3 @@ Makr addresses the challenges faced by agencies and entrepreneurs in the digital
 **Makr is an all-in-one solution for building and managing online businesses**, combining a powerful feature set with an intuitive user interface. Whether you're an agency looking to streamline client management or an entrepreneur seeking to launch your next big idea, Makr provides the tools you need to succeed in the digital world.
 
 This project showcases the skills and expertise gained in full-stack development, encompassing front-end, back-end, database management, and API integrations. It demonstrates the ability to build robust and scalable SaaS applications, addressing real-world business needs. Enjoy!!
-=======
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
->>>>>>> 202334358bd108c540327803271185364a548104
