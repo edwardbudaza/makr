@@ -59,4 +59,4 @@ Makr addresses the challenges faced by agencies and entrepreneurs in the digital
 
 **Makr is an all-in-one solution for building and managing online businesses**, combining a powerful feature set with an intuitive user interface. Whether you're an agency looking to streamline client management or an entrepreneur seeking to launch your next big idea, Makr provides the tools you need to succeed in the digital world.
 
-This project showcases the skills and expertise gained in full-stack development, encompassing front-end, back-end, database management, and API integrations. It demonstrates the ability to build robust and scalable SaaS applications, addressing real-world business needs.
+This project showcases the skills and expertise gained in full-stack development, encompassing front-end, back-end, database management, and API integrations. It demonstrates the ability to build robust and scalable SaaS applications, addressing real-world business needs. Enjoy!!
