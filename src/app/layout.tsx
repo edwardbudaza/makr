@@ -8,7 +8,7 @@ const font = DM_Sans({ subsets: ['latin'] });
 
 export const metadata: Metadata = {
   title: 'Makr',
-  description: 'All in one Agency Solution',
+  description: 'All in one Agency Solution - Manage your business in one place',
 };
 
 export default function RootLayout({
