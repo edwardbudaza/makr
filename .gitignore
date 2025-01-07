@@ -35,5 +35,8 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+<<<<<<< HEAD
 
 .codegpt
+=======
+>>>>>>> 202334358bd108c540327803271185364a548104
